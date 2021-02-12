@@ -16,7 +16,7 @@ BOT BY Ω ໓r Şi๓i Ω
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > git clone https://github.com/dr-simi/troya
-> cd esubot
+> cd troya
 > npm install
 ```
 ###### Run🏃🏻‍♂️
@@ -33,7 +33,7 @@ BOT BY Ω ໓r Şi๓i Ω
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
 ```bash
 > git clone https://github.com/dr-simi/troya
-> cd esubot
+> cd troya
 > npm install
 ```
 ###### Run
