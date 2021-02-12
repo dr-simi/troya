@@ -15,7 +15,7 @@ BOT BY Ω ໓r Şi๓i Ω
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/Samu330/esubot
+> git clone https://github.com/dr-simi/esubot
 > cd esubot
 > npm install
 ```
